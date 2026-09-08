@@ -1,4 +1,4 @@
-# 💻 Windows 11 Telemetry and Bloatware Remover by KROOKZMANE
+# 💻 Windows 11 Telemetry and Bloatware Remover by X-EON
 
 **Version: 1.0.0**
 
